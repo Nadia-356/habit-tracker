@@ -8,7 +8,7 @@ Habit Tracker helps users organize their daily habits, track their progress, and
 
 ## Preview
 
-![Habit Garden Screenshot](public/Screenshot-Habit-Tracker.png)
+<img src="public/Screenshot-Habit-Tracker.png" alt="Habit Tracker Screenshot" width="500">
 
 ## Features
 
