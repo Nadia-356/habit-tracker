@@ -1,0 +1,37 @@
+:root {
+  font-family: Arial, sans-serif;
+
+  --color-primary: #527c60;
+  --color-primary-dark: #304d3b;
+  --color-primary-light: #ddebdD;
+  --color-background: #f8f5ec;
+  --color-surface: #ffffff;
+  --color-text-muted: #718273;
+
+  color: var(--color-primary-dark);
+  background: var(--color-background);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 3px;
+}
