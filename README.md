@@ -6,6 +6,10 @@ Habit Tracker helps users organize their daily habits, track their progress, and
 
 **[Live Demo](https://habit-tracker-silk-seven.vercel.app/)**
 
+## Preview
+
+![Habit Garden Screenshot](public/Screenshot-Habit-Tracker.png)
+
 ## Features
 
 - Add new habits
